@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "EARTHWORM",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-26T15:05:39.761266Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Name Is Earthworm",
+      "artist": "Mal Blum",
+      "has_synced": false,
+      "path": "select/01_My_Name_Is_Earthworm_Mal_Blum.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Earthworm",
+      "artist": "ohGr",
+      "has_synced": false,
+      "path": "select/02_Earthworm_ohGr.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Earthworm",
+      "artist": "Flipper",
+      "has_synced": false,
+      "path": "select/03_Earthworm_Flipper.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Earthworm",
+      "artist": "Clutch",
+      "has_synced": true,
+      "path": "select/04_Earthworm_Clutch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YouTube Cypher, Vol. 3 (feat. Dax, Merkules, Futuristic, Ekoh, NoLifeShaq, 100kufis, Samad Savage, Carly X, Ashtin Larold, Crank Lucas, D.I.L.E.M.A., Feral the Earthworm & King Blitz)",
+      "artist": "Crypt feat. Dax, Merkules, Futuristic, Ekoh, NoLifeShaq, 100kufis, Samad Savage, Carly X, Ashtin Larold, Crank Lucas, D.I.L.E.M.A., Feral the Earthworm & King Blitz",
+      "has_synced": true,
+      "path": "select/05_YouTube_Cypher,_Vol._3_(feat._Dax,_Merkules,_Futuristic,_Ekoh,_NoLifeShaq,_100ku_Crypt_feat._Dax,_Merkules,_Futuristic,_Ekoh,_NoLifeShaq,_100kufis,_Samad_Savage,.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Earthworm",
+      "artist": "Grief",
+      "has_synced": false,
+      "path": "select/06_Earthworm_Grief.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Earthworm",
+      "artist": "Grief",
+      "has_synced": true,
+      "path": "select/07_Earthworm_Grief.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Earthworm",
+      "artist": "Circle",
+      "has_synced": false,
+      "path": "select/08_Earthworm_Circle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EARTHWORM (feat. MAKITO)",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_EARTHWORM_(feat._MAKITO)_DEXCORE.txt"
+    }
+  ]
+}
